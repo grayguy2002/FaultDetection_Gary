@@ -3,6 +3,8 @@ This is a case of  neural networks model using 2D-Unet to detect Fault in 2D dat
 
 
 
+
+My given data folder is not complete,(lack of 2 data whose sizes are both  more than 25MB)
 to get the "data" folder, plz use Baidu Cloud Disk (sorry for the inconvenience):
 
 
